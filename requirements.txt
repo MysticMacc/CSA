@@ -1,0 +1,11 @@
+nbformat
+pandas
+plotly
+numpy
+seaborn
+matplotlib
+click
+Flask
+itsdangerous
+python-dateutil
+pytz
